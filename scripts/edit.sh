@@ -1,0 +1,1 @@
+open -a typora docs/pages
